@@ -1,0 +1,11 @@
+section{
+    margin-top: 100px;
+}
+div{
+    border: solid black;
+    width: 100px;
+    height: 50px;
+    text-align: center;
+    margin: 10px;
+    background-color: #7aa874;
+}
